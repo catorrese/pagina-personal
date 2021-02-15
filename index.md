@@ -11,7 +11,7 @@
       <tr>
         <td width="700">
           <img
-            src="../assets/Foto Personal.png"
+            src="/assets/Foto Personal.png"
             alt="Fotografia Personal"
             height="185"
             width="147"
